@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pablospanish9
 - 👀 I’m interested in learning front end development and cloud, Spanish translation, music and ASL language
-- 🌱 I have learned HTML, CSS and Javascript. I am currently learning IT 115 at Seattle Central!!!
-- 💞️ I’m looking to collaborate on Website localization
+- 🌱 I have learned HTML, CSS and Basic Javascript. I am currently learning IT 121 JavaScript at Seattle Central!!!
+- 💞️ I’m looking to collaborate on Website development and localization
 - 📫 How to reach me spanishinterpreterseattle.com
 
 <!---
